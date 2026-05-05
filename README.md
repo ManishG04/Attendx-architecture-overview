@@ -4,6 +4,8 @@
 
 **AttendX** is a cloud-native, high-concurrency attendance management platform designed for universities and large educational institutions. It is engineered to reliably handle thousands of simultaneous student check-ins, ensuring data integrity, zero data loss, and seamless user experience for both students and faculty.
 
+Live Link: [Attendx](https://attendx.geu.ac.in)
+
 ---
 
 ## System Architecture
